@@ -1,4 +1,4 @@
-# `Student Loan Risk Prediction with Deep Learning
+# Student Loan Risk Prediction with Deep Learning
 
 ## Summary of Findings
 This project involves building a neural network model to predict student loan repayment success and discusses the creation of a recommendation system for student loans. Below are the key components and findings of the project.
